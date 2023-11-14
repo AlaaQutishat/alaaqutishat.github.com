@@ -103357,7 +103357,7 @@ var $async$eo=A.p(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:j=null
 p=4
 l=t.N
-c.G(0,A.M(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Accept","*/*","Content-Type","text/plain"],l,l))
+c.G(0,A.M(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Accept","*/*"],l,l))
 A.te().$1(J.d(j,!0)?"====> API Call: "+b+"\n Header: "+c.k(0):"====> API Call: "+(n.as+b)+"\n Header: "+c.k(0))
 l=J.d(j,!0)?A.fc(b,0,null):A.fc(n.as+b,0,null)
 s=7
@@ -103387,7 +103387,7 @@ aFa(a,b,c){var s=0,r=A.u(t.c),q,p=2,o,n=this,m,l,k,j,i
 var $async$iC=A.p(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
 k=t.N
-c.G(0,A.M(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Content-Type","text/plain","Accept","*/*"],k,k))
+c.G(0,A.M(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Accept","*/*"],k,k))
 A.te().$1("====> API Call: "+a+"\nHeader: "+c.k(0))
 A.te().$1("====> API Body: "+b.k(0))
 k=n.as+a
@@ -103423,7 +103423,7 @@ aFx(a,b,c){var s=0,r=A.u(t.c),q,p=2,o,n=this,m,l,k,j
 var $async$pz=A.p(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
 l=t.N
-c.G(0,A.M(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Content-Type","text/plain","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Accept","*/*"],l,l))
+c.G(0,A.M(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Accept","*/*"],l,l))
 A.te().$1("====> API Call: "+a+"\nHeader: "+A.e(n.ay))
 A.te().$1("====> API Body: "+b.k(0))
 l=A.fc(n.as+a,0,null)
